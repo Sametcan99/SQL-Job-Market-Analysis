@@ -54,21 +54,19 @@ skills_job_dim	       Job-skill mapping
 
 ## 📊 Most In-Demand Skills
 🥇 Top Skills
-Rank	       Skill
-1	           SQL
-2	           Excel
-3	           Python
-4	           Tableau
-5	           Power BI
+* 1	           SQL
+* 2	           Excel
+* 3	           Python
+* 4	           Tableau
+* 5	           Power BI
 
 
 ## 🏆 Highest Paying Skills
-Skill	         Avg Salary
-PySpark	       $208K
-Bitbucket	     $189K
-Couchbase	     $160K
-Watson	       $160K
-DataRobot	     $155K
+* PySpark	       $208K
+* Bitbucket	     $189K
+* Couchbase	     $160K
+* Watson	       $160K
+* DataRobot	     $155K
 
 
 ## ⚖ Optimal Career Skills
