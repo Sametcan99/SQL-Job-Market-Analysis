@@ -53,7 +53,6 @@ skills_job_dim	       Job-skill mapping
 
 
 ## 📊 Most In-Demand Skills
-🥇 Top Skills
 * 1	           SQL
 * 2	           Excel
 * 3	           Python
