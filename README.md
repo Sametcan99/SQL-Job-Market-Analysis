@@ -6,8 +6,8 @@
 ✔ Salary trends
 ✔ Skill demand patterns
 ✔ Career optimization strategies
-
 > The analysis focuses on remote Data Analyst roles and evaluates how technical skills influence earning potential and market demand.
+
 
 # 🎯 Business Questions
 Question	                     Purpose
@@ -26,6 +26,7 @@ job_postings_fact	     Job listing data
 skills_dim	           Skill reference
 skills_job_dim	       Job-skill mapping
 
+
 ## 🛠 Database Setup
 🔹 Step 1 — Create Database
 1_create_database.sql
@@ -36,8 +37,8 @@ skills_job_dim	       Job-skill mapping
 🔹 Step 3 — Load Data
 3_load_data.sql
 
-# 📈 Analysis Results
 
+# 📈 Analysis Results
 ## 💰 Top Paying Data Analyst Jobs
 🔍 Key Findings
 * Remote analytics salaries exceed $650K
@@ -50,6 +51,7 @@ skills_job_dim	       Job-skill mapping
 * Big data processing technologies frequently required
 * Programming skills remain essential
 
+
 ## 📊 Most In-Demand Skills
 🥇 Top Skills
 Rank	       Skill
@@ -59,12 +61,8 @@ Rank	       Skill
 4	           Tableau
 5	           Power BI
 
-# 🔍 Insight
-Modern Data Analysts require a hybrid skill stack combining querying, programming, and visualization.
 
 ## 🏆 Highest Paying Skills
-## 💰 Premium Salary Skills
-
 Skill	         Avg Salary
 PySpark	       $208K
 Bitbucket	     $189K
@@ -74,8 +72,6 @@ DataRobot	     $155K
 
 
 ## ⚖ Optimal Career Skills
-## ⭐ Best Long-Term ROI Skills
-
 * SQL
 * Python
 * Tableau
@@ -83,8 +79,8 @@ DataRobot	     $155K
 * Azure
 * AWS
 
-# 📊 Key Career Insights
 
+# 📊 Key Career Insights
 SQL remains the most essential skill for Data Analysts.
 
 Cloud computing significantly increases earning potential.
