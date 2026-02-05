@@ -2,10 +2,10 @@
 
 # 📌 Project Overview
 > This project analyzes Data Analyst job postings to uncover:
-
 ✔ Salary trends
 ✔ Skill demand patterns
 ✔ Career optimization strategies
+
 > The analysis focuses on remote Data Analyst roles and evaluates how technical skills influence earning potential and market demand.
 
 
